@@ -2,7 +2,7 @@
 
 ***
 
-_The code referenced in this markdown is from [this IPython notebook](./CarND - Vehicle Detection.ipynb)._
+_The code referenced in this markdown is from [this IPython notebook] (CarND - Vehicle Detection.ipynb)._
 
 
 ## Goal and Objective
